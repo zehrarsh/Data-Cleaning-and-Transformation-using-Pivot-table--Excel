@@ -1,8 +1,8 @@
 # Data-Cleaning-and-Transformation-using-Pivot-table--Excel
 ![Alt Text](DataTransformation.png)
 ![Alt Text](PivotTable.png)
-![Alt Text](PivotTable (2).png)
-![Alt Text](PivotTable (3).png)
+![Alt Text](PivotTable(2).png)
+![Alt Text](PivotTable(3).png)
 ![Alt Text](SummaryofProductSales.png)
 ## Introduction
 Company ABC Private Limited is manufacturing and selling below mentioned Products:
